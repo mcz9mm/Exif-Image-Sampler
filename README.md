@@ -1,3 +1,6 @@
+# Flutter Exif-Image-Sampler
+![Flutter](https://img.shields.io/badge/platform-Flutter-blue.svg) [![Twitter Follow](https://img.shields.io/twitter/follow/mcz9mm.svg?style=social)](https://twitter.com/mcz9mm)
+
 ## About
 
 This repository is a sample implementation using images.
@@ -15,3 +18,7 @@ It has the following features
 - Save the image - Delete the image
 
 Note: Exif information is written in Kotlin using MethodChannel.
+
+
+## License
+MIT license.
