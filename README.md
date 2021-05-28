@@ -25,9 +25,7 @@ It has the following features
 - Save the image.
 - Save the image - Delete the image
 
-Note: Exif information is written in Kotlin using MethodChannel.
-
-code→[🗒](https://github.com/mcz9mm/Exif-Image-Sampler/blob/main/android/app/src/main/kotlin/com/mcz9mm/multiple_image_upload/ExifUtil.kt#L11)
+Note: Exif information is written in Kotlin using MethodChannel.[(code here)](https://github.com/mcz9mm/Exif-Image-Sampler/blob/main/android/app/src/main/kotlin/com/mcz9mm/multiple_image_upload/ExifUtil.kt#L11)
 
 ## License
 MIT license.
