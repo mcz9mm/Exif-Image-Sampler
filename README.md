@@ -1,6 +1,14 @@
 # Flutter Exif-Image-Sampler
 ![Flutter](https://img.shields.io/badge/platform-Flutter-blue.svg) [![Twitter Follow](https://img.shields.io/twitter/follow/mcz9mm.svg?style=social)](https://twitter.com/mcz9mm)
 
+
+## 📸 ScreenShots
+
+| Photo List | Exif View|
+|------|-------|
+|<img src="https://user-images.githubusercontent.com/11751495/119928561-c1b8d100-bfb6-11eb-8011-5c3e343973d7.png" width="400">|<img src="https://user-images.githubusercontent.com/11751495/119928573-c7161b80-bfb6-11eb-8888-3b9fe1a5668b.png" width="400">|
+
+
 ## About
 
 This repository is a sample implementation using images.
